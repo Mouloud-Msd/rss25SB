@@ -1,0 +1,7 @@
+/home/mysthic/eclipse-workspace/rss25SB/src/main/java/fr/univrouen/rss25SB/Rss25SbApplication.java
+/home/mysthic/eclipse-workspace/rss25SB/src/main/java/fr/univrouen/rss25SB/ServletInitializer.java
+/home/mysthic/eclipse-workspace/rss25SB/src/main/java/fr/univrouen/rss25SB/controllers/GetController.java
+/home/mysthic/eclipse-workspace/rss25SB/src/main/java/fr/univrouen/rss25SB/controllers/IndexController.java
+/home/mysthic/eclipse-workspace/rss25SB/src/main/java/fr/univrouen/rss25SB/controllers/PostController.java
+/home/mysthic/eclipse-workspace/rss25SB/src/main/java/fr/univrouen/rss25SB/model/Item.java
+/home/mysthic/eclipse-workspace/rss25SB/src/main/java/fr/univrouen/rss25SB/model/TestRss.java
